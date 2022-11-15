@@ -1,6 +1,4 @@
-# ADD-001
-
-  - Nombre Decisión: Estilo por Eventos
+# Estilo por Eventos
   - Estatus: Propuesto
   - Fecha: 2022-11-08
 
