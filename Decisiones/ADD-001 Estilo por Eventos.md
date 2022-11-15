@@ -1,5 +1,5 @@
 # Estilo por Eventos
-  - Estatus: Propuesto
+  - Estatus: Aceptado
   - Fecha: 2022-11-08
 
 ## Requisitos 
