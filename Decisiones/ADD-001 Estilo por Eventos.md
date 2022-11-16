@@ -17,7 +17,7 @@ Está compuesta por productores y consumidores de eventos. Una vez que se detect
 
 ## Argumentación
 
-Hemos tenido en cuenta el Estilo por Eventos porque según como está escrito nuestro problema es el que más cuadra. Ya que, tenemos el productor de eventos, en este caso serían los sensores. Los sensores envían datos al centro de notificaciones (Cockpit), funcionando como gestor de eventos. Finalmente, el Cockpit le envía órdenes a las diferentes máquinas y trabajadores.
+Hemos tenido en cuenta el Estilo por Eventos porque según como está escrito nuestro problema es el que más cuadra. Ya que, tenemos el productor de eventos, en este caso serían los sensores. Los sensores envían datos a un procesador de eventos, funcionando como gestor. Finalmente, el Cockpit le envía órdenes al centro de notificaciones (Cockpit) que funciona como consumidor de eventos.
 
 ## Consecuencias Positivas
 
