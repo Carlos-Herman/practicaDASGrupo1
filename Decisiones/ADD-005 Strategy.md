@@ -1,6 +1,6 @@
 # Strategy
   - Estatus: Aceptado
-  - Fecha: 2022-11-08
+  - Fecha: 2022-11-16
 
 ## Requisitos 
 
