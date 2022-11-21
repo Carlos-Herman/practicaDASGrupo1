@@ -1,6 +1,6 @@
 # Factory Method
   - Estatus: Rechazado
-  - Fecha: 2022-11-15
+  - Fecha: 2022-11-08
 
 ## Requisitos 
 
