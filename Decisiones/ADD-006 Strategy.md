@@ -1,5 +1,5 @@
 # Strategy
-  - Estatus: Propuesto
+  - Estatus: Aceptado
   - Fecha: 2022-11-16
 
 ## Requisitos 
@@ -17,7 +17,7 @@ Es un patrón de diseño de comportamiento que te permite definir una familia de
 
 ## Argumentación
 
-
+Hemos propuesto el patrón Strategy ya que debemos poder definir dos tipos de algoritmos y hacer que el sistema elija cuál de ellos utilizar en cada momento. Por tanto, a nuestro parecer este es el que mejor le vendría este patrón, ya que podemos definir una serie de familias de algoritmos y hacerlos de manera independiente al ser dos clases separadas y después seleccionar el algoritmo más adecuado.
 
 ## Consecuencias Positivas
 
