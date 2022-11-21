@@ -1,5 +1,5 @@
 # Factory Method
-  - Estatus: Pendiente
+  - Estatus: Rechazado
   - Fecha: 2022-11-15
 
 ## Requisitos 
@@ -16,7 +16,7 @@ Es un patrón de diseño creacional que proporciona una interfaz para crear obje
 
 ## Argumentación
 
-Hemos pensado que podemos utilizar el Factory Method porque con la superclase podemos tener las funcionalidades conpartidas y después los diferentes tipos de sensores siendo estos las subclases heredarian las funcionalidades y a parte estas podrían tener las suyas propias.
+Hemos pensado que podemos utilizar el Factory Method porque con la superclase podemos tener las funcionalidades compartidas y después los diferentes tipos de sensores siendo estos las subclases heredarían las funcionalidades y a parte estas podrían tener las suyas propias.
 
 ## Consecuencias Positivas
 
