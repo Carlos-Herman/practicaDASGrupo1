@@ -1,5 +1,5 @@
 # Observer
-  - Estatus: Pendiente
+  - Estatus: Aceptado
   - Fecha: 2022-11-16
 
 ## Requisitos 
@@ -16,7 +16,7 @@ Es un patrón de diseño de comportamiento que te permite definir un mecanismo d
 
 ## Argumentación
 
-Ya que las notificaciones solo tienen que llegar en momentos específicos (como a la hora de hacer el log-in) y no tiene que tener en cuenta el tipo de usuario, sino que notifica a todo aquel que esté suscrito al evento en cuestión.
+Ya que las notificaciones solo tienen que llegar en momentos específicos (como a la hora de hacer el log-in) y no debe tener en cuenta el tipo de usuario, sino que notifica a todo aquel que esté suscrito al evento en cuestión.
 
 ## Consecuencias Positivas
 
@@ -31,4 +31,4 @@ Ya que las notificaciones solo tienen que llegar en momentos específicos (como 
 
    - **Fuga de memoria**: A la hora de añadir o quitar observadores, habría que hacerlo de manera explícita, lo que puede generar fugas de memoria.
 
-   - **Aleatroeidad**: A la hora de notificar a los suscriptores, estas notifiaciones llegarían en un orden aleatorio.
+   - **Aleatoriedad**: A la hora de notificar a los suscriptores, estas notificaciones llegarían en un orden aleatorio.
