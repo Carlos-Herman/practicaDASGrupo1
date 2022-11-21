@@ -1,6 +1,6 @@
 # Observer
   - Estatus: Aceptado
-  - Fecha: 2022-11-16
+  - Fecha: 2022-11-08
 
 ## Requisitos 
 
