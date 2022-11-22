@@ -1,5 +1,5 @@
 # Facade
-  - Estatus: Propuesto
+  - Estatus: Acepatdo
   - Fecha: 2022-11-17
 
 ## Requisitos 
