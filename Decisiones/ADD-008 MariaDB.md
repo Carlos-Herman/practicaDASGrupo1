@@ -4,7 +4,7 @@
 
 ## Requisitos 
 
-[RF-06]
+[RF-04]
 
 ## Descripción
 
