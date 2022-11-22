@@ -10,14 +10,14 @@
 
 Es un sistema de gestión de bases de datos relacionales de código abierto con un modelo cliente-servidor. Esto quiere decir que la información se encuentra centralizada en un servidor (normalmente tu hosting) que recibe y procesa las peticiones. Estas peticiones son realizadas por los diferentes clientes (usuarios que realizan consultas a la base de datos a través de herramientas como phpMyAdmin, por ejemplo) en forma de sentencias SQL.
 
-## Argumentación
-
-Hemos propuesto MySQL como base de datos ya que hemos podido trabajar más con este tipo de base de datos y al ser gratuita y de uso libro podemos encontrar mucha documentación al respecto.
-
 ## Alternativas
 
    - MariaDB
    - Oracle Database
+
+## Argumentación
+
+Hemos propuesto MySQL como base de datos ya que hemos podido trabajar más con este tipo de base de datos y al ser gratuita y de uso libro podemos encontrar mucha documentación al respecto.
 
 ## Consecuencias Positivas
 
