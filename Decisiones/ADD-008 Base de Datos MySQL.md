@@ -1,5 +1,5 @@
 # Base de Datos MySQL
-  - Estatus: Propuesto
+  - Estatus: Rechazado
   - Fecha: 2022-11-20
 
 ## Requisitos 
