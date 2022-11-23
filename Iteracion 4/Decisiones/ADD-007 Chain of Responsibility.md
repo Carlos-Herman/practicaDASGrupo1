@@ -1,6 +1,6 @@
 # Chain of Responsibility
   - Estatus: Aceptado
-  - Fecha: 2022-11-16
+  - Fecha: 2022-11-20
 
 ## Requisitos 
 
